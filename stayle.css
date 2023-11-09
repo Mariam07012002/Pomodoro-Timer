@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+   background: linear-gradient( to right, #e66465, #9198e5);
+}
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.timer {
+    font-size: 2em;
+    margin-top: 20px;
+    font-size: 95px;
+}
+
+.controls button {
+    margin: 10px;
+    padding: 5px 10px;
+    font-size: 1em;
+    cursor: pointer;
+    background-color: rgb(119, 244, 244);
+    border-radius: 47px;
+    font-size: 25px;
+}
+
+.settings {
+    margin-top: 20px;
+}
+
+label {
+    display: block;
+    margin: 5px;
+}
+
+input {
+    width: 50px;
+    background-color: aqua;
+    font-size: 25px;
+}
+
